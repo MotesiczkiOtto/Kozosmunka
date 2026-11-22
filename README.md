@@ -1,0 +1,2 @@
+# Kozosmunka
+megosztott programozas
